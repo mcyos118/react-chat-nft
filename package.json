@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "webpack",
-    "dev": "webpack"
+    "start": "node index.js",
   },
   "keywords": [],
   "author": "",
